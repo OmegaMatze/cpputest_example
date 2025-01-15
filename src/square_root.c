@@ -4,5 +4,5 @@
 
 float SquareRoot_sqrt(float number)
 {
-    return (float)sqrt(number)+1;
+    return (float)sqrt(number);
 }
